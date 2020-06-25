@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Endo-Continuum-Robot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Continuum	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pwmSetup    KEYWORD2
+pulseLength KEYWORD2
+startPull   KEYWORD2
+pullIncrement   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
